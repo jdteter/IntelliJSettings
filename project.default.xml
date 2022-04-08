@@ -1,0 +1,151 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Encoding">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="GradleLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/projects/play-scala-rest-api-example" value="PREVIEW" />
+            <entry key="$USER_HOME$/projects/play-scala-rest-api-example-2.7.x" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="JavaScriptSettings">
+        <option name="languageLevel" value="JSX" />
+      </component>
+      <component name="JsFlowSettings">
+        <service-enabled>true</service-enabled>
+        <exe-path />
+        <other-services-enabled>true</other-services-enabled>
+        <auto-save>true</auto-save>
+      </component>
+      <component name="NodePackageJsonFileManager">
+        <packageJsonPaths />
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" />
+      <component name="ProjectViewState">
+        <option name="autoscrollFromSource" value="true" />
+        <option name="hideEmptyMiddlePackages" value="true" />
+        <option name="showLibraryContents" value="true" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="JavaScriptPreferStrict" value="false" />
+        <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+        <property name="last_opened_file_path" value="$USER_HOME$/projects" />
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+      </component>
+      <component name="RunManager">
+        <configuration default="true" type="Applet">
+          <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="Application" factoryName="Application">
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="JUnit" factoryName="JUnit">
+          <option name="TEST_OBJECT" value="class" />
+          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="TestNG">
+          <option name="TEST_OBJECT" value="CLASS" />
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <properties />
+          <listeners />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+          <module name="" />
+          <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+          <option name="PROGRAM_PARAMETERS" />
+          <predefined_log_file enabled="true" id="idea.log" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+      </component>
+      <component name="SbtLocalSettings">
+        <option name="modificationStamps">
+          <map>
+            <entry key="$USER_HOME$/projects/SpringCloudProperties" value="1487884834000" />
+            <entry key="$USER_HOME$/projects/Vault" value="1486496240000" />
+            <entry key="$USER_HOME$/projects/analyticmodel" value="1487014961000" />
+            <entry key="$USER_HOME$/projects/analyticmodelui" value="1461618999000" />
+            <entry key="$USER_HOME$/projects/hello" value="1482163487000" />
+            <entry key="$USER_HOME$/projects/midas-pos-parentage-service" value="1489443617000" />
+            <entry key="$USER_HOME$/projects/molecular-breeding-marker-api" value="1478801742000" />
+            <entry key="$USER_HOME$/projects/scala-zip-master" value="1410261952000" />
+            <entry key="$USER_HOME$/projects/scalatra-sbt.g8" value="1461953197000" />
+          </map>
+        </option>
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/projects/analyticmodel" value="PREVIEW" />
+            <entry key="$USER_HOME$/projects/gws-offloading-services" value="PREVIEW" />
+            <entry key="$USER_HOME$/projects/inventory-offloading-swf" value="PREVIEW" />
+            <entry key="$USER_HOME$/projects/manage-activities-api" value="PREVIEW" />
+            <entry key="$USER_HOME$/projects/mbl-internal-service-proxy" value="PREVIEW" />
+            <entry key="$USER_HOME$/projects/offloading-api" value="PREVIEW" />
+            <entry key="$USER_HOME$/projects/play-scala-compile-di-example" value="PREVIEW" />
+            <entry key="$USER_HOME$/projects/play-scala-macwire-di-example" value="PREVIEW" />
+            <entry key="$USER_HOME$/projects/play-scala-rest-api-example" value="PREVIEW" />
+            <entry key="$USER_HOME$/projects/ready-for-offloader" value="PREVIEW" />
+            <entry key="$USER_HOME$/projects/sbt-dependency-graph" value="PREVIEW" />
+            <entry key="$USER_HOME$/projects/scala-vault-client" value="PREVIEW" />
+            <entry key="$USER_HOME$/projects/seed-store-mock" value="PREVIEW" />
+            <entry key="$USER_HOME$/projects/taqman-gws-integration" value="PREVIEW" />
+            <entry key="$USER_HOME$/projects/workflow-client" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="ScalaSbtSettings">
+        <option name="customLauncherEnabled" value="true" />
+        <option name="customLauncherPath" value="/usr/local/Cellar/sbt/1.2.1/libexec/bin/sbt-launch.jar" />
+        <option name="customVMPath" />
+      </component>
+      <component name="SvnConfiguration">
+        <configuration>$USER_HOME$/.subversion</configuration>
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

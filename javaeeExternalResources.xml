@@ -1,0 +1,6 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://www.springframework.org/schema/integration/jdbc/spring-integration-jdbc.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2016.1/extResources/325d71b3_spring-integration-jdbc.xsd" />
+    <resource url="http://www.springframework.org/schema/integration/spring-integration-4.2.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2016.1/extResources/fd511df2_spring-integration-4.2.xsd" />
+  </component>
+</application>
