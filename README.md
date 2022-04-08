@@ -1,2 +1,0 @@
-# IntelliJSettings
-Intellij Editor Settings
