@@ -17,6 +17,7 @@
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="qrc" approved="true" type="XML" />
       <removed_mapping ext="routes" approved="true" type="Play 2 Routing" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping pattern="routes" approved="true" type="Play 2 Routing" />
