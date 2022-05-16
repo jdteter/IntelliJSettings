@@ -12,7 +12,6 @@
       <mapping pattern="offloading-db-tunnel" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping ext="readme" type="PLAIN_TEXT" />
-      <mapping ext="qrc" type="XML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
