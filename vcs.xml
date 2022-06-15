@@ -474,6 +474,10 @@
           <option name="url" value="git@github.com:bayer-int/vector-vmf-upload-data-component.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:bayer-int/tourfield-data-classification.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/projects" />
