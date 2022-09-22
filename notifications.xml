@@ -1,5 +1,6 @@
 <application>
   <component name="NotificationConfiguration">
+    <notification groupId="AWS Toolkit" shouldLog="false" />
     <notification groupId="Branch Context group" shouldLog="false" />
     <notification groupId="CodeWithMe" playSound="true" />
     <notification groupId="Common Version Control Messages" displayType="TOOL_WINDOW" />
