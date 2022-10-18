@@ -1,10 +1,10 @@
 <templateSet group="user">
-  <template name="jdesc" value="describe('', () =&gt; {&#10;    it('', () =&gt; {&#10;    });&#10;});" description="Jest describe block" toReformat="false" toShortenFQNames="true">
+  <template name="jdesc" value="describe('', () =&gt; {&#10;    it('', () =&gt; {&#10;    });&#10;});" description="Jest describe block" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="jit" value="it('', async () =&gt; {&#10;});" description="jest it block" toReformat="true" toShortenFQNames="true">
+  <template name="jit" value="    it('', async () =&gt; {&#10;    });" description="jest it block" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
