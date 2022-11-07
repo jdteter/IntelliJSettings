@@ -494,6 +494,10 @@
           <option name="url" value="git@github.com:bayer-int/prl-field-compliance-api.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.platforms.engineering:Marianas/data-q.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/projects" />
